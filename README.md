@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Android developer in training from Argentina...</h4>
+<h3 align="center">Android developer in training from Argentina...</h3>
 
 ###
 
@@ -40,23 +40,3 @@
 
 ###
 
-<h2 align="left">Social Media:</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/pedro-bustamante-12016a334/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="pedro_b9706" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="pedr0_bust" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="bustamante.dev.mobile@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
