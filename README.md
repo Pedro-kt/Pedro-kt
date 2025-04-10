@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋 I'm Pedro Bustamante</h1>
+<h1 align="center">Hey 👋 Soy Bustamante Pedro</h1>
 
 ###
 
-<h3 align="center">Android developer in training from Argentina...</h3>
+<h3 align="center">Desarrollador Android en Progreso...</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning: Kotlin and Jetpack Compose<br>🎯 Goals: continue learning new technologies and contribute to open source projects to improve as a developer and develop my own applications<br>🎲 Fun fact: I'm still thinking about it</p>
+<p align="left">✨ Programando desde 2024<br>📚 Actualmente estudiando Kotlin y Jetpack Compose<br>🎯 Objetivos: continuar estudiando nuevos tecnologias, contribuir a projectos Open Source para mejorar como desarrollador y desarrollar mis propias aplicaciones
 
 ###
 
