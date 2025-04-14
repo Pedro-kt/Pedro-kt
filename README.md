@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programando desde 2024<br>📚 Actualmente estudiando Kotlin y Jetpack Compose<br>🎯 Objetivos: continuar estudiando nuevos tecnologias, contribuir a projectos Open Source para mejorar mis habilidades como desarrollador y desarrollar mis propias aplicaciones
+<p align="left">✨ Programando desde 2024<br>📚 Actualmente estudiando Kotlin y Jetpack Compose<br>🎯 Objetivos: continuar estudiando nuevos tecnologias, contribuir a projectos Open Source para mejorar mis habilidades como desarrollador y desarrollar mis propias aplicaciones<br>💻 En mis tiempos libres trabajo en mis proyectos (actualmente en el gestor-biblioteca-poo), repositorio el cual esta disponible en mi perfil
 
 ###
 
