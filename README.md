@@ -10,13 +10,7 @@
 
 ###
 
-<p align="left">✨ Programando desde 2024<br>📚 Actualmente estudiando Kotlin y Jetpack Compose<br>🎯 Objetivos: continuar estudiando nuevos tecnologias, contribuir a projectos Open Source para mejorar mis habilidades como desarrollador y desarrollar mis propias aplicaciones<br>💻 En mis tiempos libres trabajo en mis proyectos (actualmente en el gestor-biblioteca-poo), repositorio el cual esta disponible en mi perfil
-  
-<div align="center">
-<a href="https://profile.codersrank.io/user/pedro-kt" target="_blank">
-  <img src="https://img.shields.io/badge/CodersRank-Ver%20mi%20perfil-blueviolet?style=for-the-badge&logo=codersrank&logoColor=white" alt="CodersRank Profile"/>
-</a>
-</div>
+<p align="left">✨ Programando desde 2024<br>📚 Actualmente me estoy profundizando en manejar librerias de Kotlin como ser (Room, Retrofit, Corrutinas, etc) ademas de jetpack compose<br>🎯 Objetivos: continuar estudiando nuevas tecnologias, y desarrollar mis propias aplicaciones<br>💻 En mis tiempos libres trabajo en mis proyectos (actualmente en una app de registros de animes que esta en etapa de planificacion y analisis)
 
 ###
 
