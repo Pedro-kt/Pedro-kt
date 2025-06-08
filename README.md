@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Guitar.gif" alt="Banner animado" />
+</p>
+
+
 <h1 align="center">Hey 👋 Soy Bustamante Pedro</h1>
 
 ###
