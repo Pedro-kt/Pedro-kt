@@ -15,7 +15,13 @@
 
 ###
 
-<p align="left">✨ Programando desde 2024<br>📚 Actualmente me estoy profundizando en manejar librerias de Kotlin como ser (Room, Retrofit, Corrutinas, etc) ademas de jetpack compose<br>🎯 Objetivos: continuar estudiando nuevas tecnologias, y desarrollar mis propias aplicaciones<br>💻 En mis tiempos libres trabajo en mis proyectos (actualmente en una app de registros de animes que esta en etapa de planificacion y analisis)
+<p align="left">✨ Programando desde 2024<br>📚 Actualmente me estoy profundizando en manejar librerias de Kotlin como ser (Room, Retrofit, Corrutinas, etc) ademas de jetpack compose<br>🎯 Objetivos: continuar estudiando nuevas tecnologias, y desarrollar mis propias aplicaciones<br>💻 En mis tiempos libres trabajo en mis proyectos (actualmente en una app de registros de animes, en estapa de desarrollo) link abajo:
+
+<p align="center">
+  <a href="https://github.com/Pedro-kt/seijaku-list">
+    <img src="https://img.shields.io/badge/Seijaku%20List-f04393" alt="Seijaku List">
+  </a>
+</p>
 
 ###
 
