@@ -7,7 +7,7 @@
 
 ###
 
-<h3 align="center">Desarrollador Android en Progreso...</h3>
+<h3 align="center">Desarrollador Android</h3>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">✨ Programando desde 2024<br>📚 Actualmente me estoy profundizando en manejar librerias de Kotlin como ser (Room, Retrofit, Corrutinas, etc) ademas de jetpack compose<br>🎯 Objetivos: continuar estudiando nuevas tecnologias, y desarrollar mis propias aplicaciones<br>💻 En mis tiempos libres trabajo en mis proyectos (actualmente en una app de registros de animes, en estapa de desarrollo) link abajo:
+<p align="left">✨ Programando desde 2024<br>📚 Actualmente me estoy especializando en manejar librerias de Kotlin como ser (Room, Retrofit, Corrutinas, etc), ademas de mejorar mis habilidades en Jetpack Compose<br>🎯 Objetivos: Desarrollar mis propias aplicaciones<br>💻 En mis tiempos libres trabajo en mis proyectos (actualmente en una app de registros de animes, en etapa de desarrollo) link abajo:
 
 <p align="center">
   <a href="https://github.com/Pedro-kt/seijaku-list">
