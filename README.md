@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hey 👋 Soy Bustamante Pedro</h1>
+<h1 align="center">Hola! 👋 Soy Bustamante Pedro</h1>
 
 ###
 
@@ -11,11 +11,11 @@
 
 ###
 
-<h2 align="left">About me:</h2>
+<h2 align="left">Sobre mi:</h2>
 
 ###
 
-<p align="left">✨ Programando desde 2024<br>📚 Actualmente me estoy especializando en manejar librerias de Kotlin como ser (Room, Retrofit, Corrutinas, etc), ademas de mejorar mis habilidades en Jetpack Compose<br>🎯 Objetivos: Desarrollar mis propias aplicaciones<br>💻 En mis tiempos libres trabajo en mis proyectos (actualmente en una app de registros de animes, en etapa de desarrollo) link abajo:
+<p align="left">👨🏻‍💻 Programando desde 2024<br>✨ Soy un apasionado por la tecnología, programación, y por crear aplicaciones mobiles modernas y escalables, con un gran interés en aportar a proyectos reales y crecer profesionalmente<br>💻 En mis tiempos libres trabajo en mis proyectos personales (actualmente en una app nativa para Android de registros de animes, en etapa de desarrollo) que posteriormente sera publicada en la Play Store... link abajo:
 
 <p align="center">
   <a href="https://github.com/Pedro-kt/seijaku-list">
