@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Visitas](https://komarev.com/ghpvc/?username=ThePeter-dev&color=green)
+![Visitas](https://komarev.com/ghpvc/?username=Pedro-kt&color=green)
 
 </div>
 
