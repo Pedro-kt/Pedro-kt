@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Programando desde 2024<br>✨ Soy un apasionado por la tecnología, programación, y por crear aplicaciones mobiles modernas y escalables, con un gran interés en aportar a proyectos reales y crecer profesionalmente<br>💻 En mis tiempos libres trabajo en mis proyectos personales (actualmente en una app nativa para Android de registros de animes, en etapa de desarrollo) que posteriormente sera publicada en la Play Store... link abajo:
+<p align="left">👨🏻‍💻 Programando desde 2024<br>✨ Soy un apasionado por la tecnología, programación, y por crear aplicaciones moviles modernas y escalables, con un gran interés en aportar a proyectos reales y crecer profesionalmente<br>💻 En mis tiempos libres trabajo en mis proyectos personales (actualmente en una app nativa para Android de registros de animes, en etapa de desarrollo) que posteriormente sera publicada en la Play Store... link abajo:
 
 <p align="center">
   <a href="https://github.com/Pedro-kt/seijaku-list">
@@ -43,6 +43,9 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -56,6 +59,12 @@
 
 </div>
 
+###
 
+<div align="center">
+
+![Visitas](https://komarev.com/ghpvc/?username=ThePeter-dev&color=green)
+
+</div>
 
 ###
