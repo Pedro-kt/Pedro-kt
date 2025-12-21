@@ -1,70 +1,100 @@
 <p align="center">
-  <img src="Guitar.gif" alt="Banner animado" />
+  <img src="Guitar.gif" alt="Animated Banner" />
 </p>
 
+<h1 align="center">Hello! 👋 I'm Bustamante Pedro</h1>
+<h3 align="center">Android Developer | Kotlin & Jetpack Compose</h3>
 
-<h1 align="center">Hola! 👋 Soy Bustamante Pedro</h1>
+## 🚀 About Me
 
-###
+Passionate Android Developer focused on creating modern and scalable mobile applications. Immersed in the programming world since 2024, focused on clean architectures and development best practices.
 
-<h3 align="center">Desarrollador Android</h3>
+- 👨🏻‍💻 Coding since 2024
+- 💼 Currently working at **[Helipagos](https://www.linkedin.com/company/helipagos)**
+- 💻 Currently working on **Seijaku List** - Anime tracking app (coming soon to Play Store)
+- 🌱 Constantly learning about Jetpack Compose, Clean Architecture, design patterns and Modern Application development stack
+- 🎯 Goal: grow professionally in mobile development
 
-###
+## 💼 Professional Experience
 
-<h2 align="left">Sobre mi:</h2>
+<div align="left">
+  <a href="https://www.linkedin.com/company/helipagos">
+    <img src="https://img.shields.io/badge/Helipagos-Mobile_Developer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Helipagos">
+  </a>
+</div>
 
-###
+- 🏢 Developing innovative mobile payment solutions
+- 📱 Building native Android applications
+- 🔧 Working with modern Android development stack
 
-<p align="left">👨🏻‍💻 Programando desde 2024<br>✨ Soy un apasionado por la tecnología, programación, y por crear aplicaciones moviles modernas y escalables, con un gran interés en aportar a proyectos reales y crecer profesionalmente<br>💻 En mis tiempos libres trabajo en mis proyectos personales (actualmente en una app nativa para Android de registros de animes, en etapa de desarrollo) que posteriormente sera publicada en la Play Store... link abajo:
+## 📱 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Pedro-kt/seijaku-list">
-    <img src="https://img.shields.io/badge/Seijaku%20List-f04393" alt="Seijaku List">
+    <img src="https://img.shields.io/badge/🎌_Seijaku_List-Anime_Tracker-f04393?style=for-the-badge" alt="Seijaku List">
   </a>
 </p>
 
-###
+**Seijaku List** - Native Android application for anime tracking and management
+- 🔨 Stack: Kotlin, Room Database, Firebase
+- 📐 MVVM Architecture
+- 🎨 Material Design 3
+- 🚀 Status: Active development
 
-<h2 align="left">Lenguajes y Herramientas</h2>
+## 🛠️ Languages and Tools
 
-###
-
+### Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" title="Kotlin" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" />
 </div>
 
-###
+### Tools and Technologies
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" title="Android Studio" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" title="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" title="SQLite" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-kt&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Pedro-kt&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-kt&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+## 📫 Contact
 
 <div align="center">
   
-  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pedro-kt&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pedro-kt&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-kt&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-bustamante-12016a334)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bustamante.dev.mobile@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedro-kt)
 
 </div>
 
-###
+---
 
 <div align="center">
-
-![Visitas](https://komarev.com/ghpvc/?username=Pedro-kt&color=green)
-
+  <img src="https://komarev.com/ghpvc/?username=Pedro-kt&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views counter" />
 </div>
 
-###
+<div align="center">
+  <i>💡 "Clean code always looks like it was written by someone who cares" - Robert C. Martin</i>
+</div>
