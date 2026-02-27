@@ -38,14 +38,14 @@ Passionate Android Developer focused on creating modern and scalable mobile appl
 ![Coil 3](https://img.shields.io/badge/Coil_3-4285F4?style=flat-square)
 ![Navigation](https://img.shields.io/badge/Navigation-4285F4?style=flat-square&logo=android&logoColor=white)
 
-### 📐 Arquitectura & Core
+### 📐 Arquitecture & Core
 ![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=flat-square)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-3DDC84?style=flat-square)
 ![Hilt](https://img.shields.io/badge/Hilt_(DI)-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-3DDC84?style=flat-square&logo=kotlin&logoColor=white)
 ![MVI](https://img.shields.io/badge/MVI-3DDC84?style=flat-square)
 
-### 🔐 Seguridad & Fintech
+### 🔐 Security
 ![Android Keystore](https://img.shields.io/badge/Android_Keystore-CC2927?style=flat-square&logo=android&logoColor=white)
 ![Shamir Secret Sharing](https://img.shields.io/badge/Shamir_Secret_Sharing-CC2927?style=flat-square)
 ![EncryptedSharedPreferences](https://img.shields.io/badge/Encrypted_Prefs-CC2927?style=flat-square)
@@ -66,12 +66,10 @@ Passionate Android Developer focused on creating modern and scalable mobile appl
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-E65100?style=flat-square)
 ![Kotlin Serialization](https://img.shields.io/badge/Kotlin_Serialization-E65100?style=flat-square&logo=kotlin&logoColor=white)
 
-### 🛠️ Herramientas & Agile
+### 🛠️ Tools
 ![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=flat-square&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-000000?style=flat-square&logo=gradle&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-000000?style=flat-square)
-![Jira](https://img.shields.io/badge/Jira-000000?style=flat-square&logo=jira&logoColor=white)
 ![Profiling](https://img.shields.io/badge/Profiling-000000?style=flat-square)
 
 ## 📊 GitHub Statistics
