@@ -15,14 +15,6 @@ Passionate Android Developer focused on creating modern and scalable mobile appl
 - 🌱 Constantly learning about Jetpack Compose, Clean Architecture, design patterns and Modern Application development stack
 - 🎯 Goal: grow professionally in mobile development
 
-## 💼 Professional Experience
-
-<div align="center">
-  <a href="https://www.linkedin.com/company/helipagos">
-    <img src="https://img.shields.io/badge/Helipagos-Mobile_Developer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Helipagos">
-  </a>
-</div>
-
 ## 🛠️ Tech Stack
 
 ### 🖋️ Languages & Multiplatform
