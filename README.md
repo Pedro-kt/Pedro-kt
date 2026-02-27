@@ -23,47 +23,56 @@ Passionate Android Developer focused on creating modern and scalable mobile appl
   </a>
 </div>
 
-- 🏢 Developing innovative mobile payment solutions
-- 📱 Building native Android applications
-- 🔧 Working with modern Android development stack
+## 🛠️ Tech Stack
 
-## 📱 Featured Projects
+### 🖋️ Languages & Multiplatform
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![KMP](https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7F52FF?style=flat-square&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-7F52FF?style=flat-square&logo=flutter&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/Pedro-kt/seijaku-list">
-    <img src="https://img.shields.io/badge/🎌_Seijaku_List-Anime_Tracker-f04393?style=for-the-badge" alt="Seijaku List">
-  </a>
-</p>
+### 🎨 UI/UX & Design
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat-square&logo=kotlin&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design-4285F4?style=flat-square&logo=materialdesign&logoColor=white)
+![Coil 3](https://img.shields.io/badge/Coil_3-4285F4?style=flat-square)
+![Navigation](https://img.shields.io/badge/Navigation-4285F4?style=flat-square&logo=android&logoColor=white)
 
-**Seijaku List** - Native Android application for anime tracking and management
-- 🔨 Stack: Kotlin, Room Database, Firebase
-- 📐 MVVM Architecture
-- 🎨 Material Design 3
-- 🚀 Status: Active development
+### 📐 Arquitectura & Core
+![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-3DDC84?style=flat-square)
+![Hilt](https://img.shields.io/badge/Hilt_(DI)-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-3DDC84?style=flat-square&logo=kotlin&logoColor=white)
+![MVI](https://img.shields.io/badge/MVI-3DDC84?style=flat-square)
 
-## 🛠️ Languages and Tools
+### 🔐 Seguridad & Fintech
+![Android Keystore](https://img.shields.io/badge/Android_Keystore-CC2927?style=flat-square&logo=android&logoColor=white)
+![Shamir Secret Sharing](https://img.shields.io/badge/Shamir_Secret_Sharing-CC2927?style=flat-square)
+![EncryptedSharedPreferences](https://img.shields.io/badge/Encrypted_Prefs-CC2927?style=flat-square)
 
-### Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" title="Kotlin" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" />
-</div>
+### 🗄️ Persistence & Databases
+![Firebase](https://img.shields.io/badge/Firebase-444444?style=flat-square&logo=firebase)
+![Room](https://img.shields.io/badge/Room-444444?style=flat-square&logo=android&logoColor=white)
+![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-444444?style=flat-square&logo=android&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-444444?style=flat-square&logo=sqlite&logoColor=white)
+![SQLDelight](https://img.shields.io/badge/SQLDelight-444444?style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL_Server-444444?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-444444?style=flat-square&logo=mysql&logoColor=white)
 
-### Tools and Technologies
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" title="Android Studio" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" title="Firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" title="SQLite" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
-</div>
+### 📡 Networking
+![Retrofit](https://img.shields.io/badge/Retrofit-E65100?style=flat-square)
+![Ktor](https://img.shields.io/badge/Ktor-E65100?style=flat-square&logo=kotlin&logoColor=white)
+![Gson](https://img.shields.io/badge/Gson-E65100?style=flat-square)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-E65100?style=flat-square)
+![Kotlin Serialization](https://img.shields.io/badge/Kotlin_Serialization-E65100?style=flat-square&logo=kotlin&logoColor=white)
+
+### 🛠️ Herramientas & Agile
+![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=flat-square&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-000000?style=flat-square&logo=gradle&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-000000?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-000000?style=flat-square&logo=jira&logoColor=white)
+![Profiling](https://img.shields.io/badge/Profiling-000000?style=flat-square)
 
 ## 📊 GitHub Statistics
 
@@ -75,14 +84,10 @@ Passionate Android Developer focused on creating modern and scalable mobile appl
   <img src="https://nirzak-streak-stats.vercel.app/?user=Pedro-kt&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-kt&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
 ## 📫 Contact
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-bustamante-12016a334)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bustamante.dev.mobile@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedro-kt)
