@@ -107,7 +107,7 @@ Anime tracking app built with Kotlin & Jetpack Compose.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedro-kt&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-kt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" />
 </div>
 
 ---
