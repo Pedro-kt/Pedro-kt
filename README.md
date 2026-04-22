@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Guitar.gif" alt="Animated Banner" />
+  <img src="https://tenor.com/ySg4.gif" alt="Mio Akiyama" width="700"/>
 </p>
 
 <h1 align="center">Hello! 👋 I'm Bustamante Pedro</h1>
