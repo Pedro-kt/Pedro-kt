@@ -17,21 +17,17 @@ Android Developer focused on building modern, scalable and secure mobile applica
 
 ---
 
-##  Featured Projects
+## Current Projects
 
-### 🔹 **[Seijaku List](https://github.com/Pedro-kt/seijaku-list)**
-Anime tracking app built with Kotlin & Jetpack Compose.
+<div align="center">
 
->  Coming soon to Play Store  
+| Project | Description | Tech | Status |
+|--------|------------|------|--------|
+| [Seijaku List](https://github.com/Pedro-kt/seijaku-list) | Anime tracking app focused on UX and scalability (Coming soon on Google Play) | Kotlin, Jetpack Compose, MVVM, Clean Architecture | Active |
+| [Sora Space](https://github.com/Pedro-kt/sora-space) | Space exploration with NASA Open API and Spaceflight News API (Coming soon on Google Play) | Kotlin Multiplatform, Compose Multiplatform, MVVM, Clean Architecture | Active |
+| [Compose Components](https://github.com/Pedro-kt/compose-components) | Open-source repository of reusable UI components for Android, built with Jetpack Compose. | Kotlin, Jetpack Compose, Animation, Canvas | Active |
 
----
-
-##  What I Focus On
-
-- Building scalable Android architectures  
-- Writing clean, maintainable and testable code  
-- Improving performance and user experience  
-- Applying security best practices in mobile apps  
+</div>
 
 ---
 
