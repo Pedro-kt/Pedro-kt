@@ -95,7 +95,7 @@ Android Developer focused on building modern, scalable and secure mobile applica
 ##  GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-kt&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedro-kt&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
 
 <div align="center">
@@ -103,7 +103,7 @@ Android Developer focused on building modern, scalable and secure mobile applica
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-kt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pedro-kt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </div>
 
 ---
