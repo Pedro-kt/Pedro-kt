@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hello! 👋 I'm Bustamante Pedro</h1>
-<h3 align="center">Android Developer | Kotlin & Jetpack Compose</h3>
+<h3 align="center">Android Developer | Kotlin - KMP - Ktor </h3>
 
 ##  About Me
 
@@ -11,7 +11,6 @@ Android Developer focused on building modern, scalable and secure mobile applica
 
 -  Coding since 2024  
 -  Currently working at **[Helipagos](https://www.linkedin.com/company/helipagos)**  
--  Building **Seijaku List** - Anime tracking app (coming soon to Play Store)  
 -  Continuously learning about Android, system design and modern development practices  
 -  Goal: grow professionally and specialize in mobile & fintech solutions  
 
@@ -23,9 +22,10 @@ Android Developer focused on building modern, scalable and secure mobile applica
 
 | Project | Description | Tech | Status |
 |--------|------------|------|--------|
-| [Seijaku List](https://github.com/Pedro-kt/seijaku-list) | Anime tracking app focused on UX and scalability (Coming soon on Google Play) | Kotlin, Jetpack Compose, MVVM, Clean Architecture | Active |
-| [Sora Space](https://github.com/Pedro-kt/sora-space) | Space exploration with NASA Open API and Spaceflight News API (Coming soon on Google Play) | Kotlin Multiplatform, Compose Multiplatform, MVVM, Clean Architecture | Active |
-| [Compose Components](https://github.com/Pedro-kt/compose-components) | Open-source repository of reusable UI components for Android, built with Jetpack Compose. | Kotlin, Jetpack Compose, Animation, Canvas | Active |
+| [Seijaku List](https://github.com/Pedro-kt/seijaku-list) | Anime tracking app focused on UX and scalability (Coming soon on Google Play) | Kotlin, Jetpack Compose, MVVM, Clean Architecture, Jikan API | Active |
+| [Sora Space](https://github.com/Pedro-kt/sora-space) | Space exploration with NASA Open API and Spaceflight News API (Coming soon on Google Play) | Kotlin Multiplatform, Compose Multiplatform, MVVM, Clean Architecture, NASA Open API | Active |
+| [Compose Components](https://github.com/Pedro-kt/compose-components) | Open-source repository of reusable UI components for Android, built with Jetpack Compose. | Kotlin, Jetpack Compose, Animation, Canvas, AGSL Shader | Active |
+| **Velko Wallet** | Digital wallet with Stripe integration for Android. <br> • [Android App](https://github.com/Pedro-kt/velko-wallet) <br> • [Backend API](https://github.com/Pedro-kt/velko-wallet-backend) | **App:** Kotlin, Jetpack Compose, Stripe - Payments, MVVM, Clean Architecture <br> **Backend:** Kotlin, Ktor, Kotlin Serialiation, Stripe API| Active |
 
 </div>
 
